@@ -78,4 +78,4 @@ int main() {
     delete[] restoredArray;
 
     return 0;
-}
+}//проверка
