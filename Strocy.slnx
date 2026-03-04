@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Strocy/Strocy.vcxproj" Id="a1d2ce10-7668-42b4-b759-f7216149bf38" />
+</Solution>
